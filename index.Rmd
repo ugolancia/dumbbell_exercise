@@ -140,5 +140,5 @@ The operations performed were:
 
 ###Reference to github repo
 
-[link](https://github.com/ugolancia/mlproject/tree/gh-pages)  
+[link](http://ugolancia.github.io/dumbbell_exercise/)  
 
